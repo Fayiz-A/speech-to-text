@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/text-to-speech/static/js/app.2a921703.chunk.js",
+    "app.js.map": "/text-to-speech/static/js/app.2a921703.chunk.js.map",
+    "runtime~app.js": "/text-to-speech/static/js/runtime~app.7100a533.js",
+    "runtime~app.js.map": "/text-to-speech/static/js/runtime~app.7100a533.js.map",
+    "static/js/2.ff8d85f2.chunk.js": "/text-to-speech/static/js/2.ff8d85f2.chunk.js",
+    "static/js/2.ff8d85f2.chunk.js.map": "/text-to-speech/static/js/2.ff8d85f2.chunk.js.map",
+    "favicon-16.png": "/text-to-speech/favicon-16.png",
+    "favicon-32.png": "/text-to-speech/favicon-32.png",
+    "favicon.ico": "/text-to-speech/favicon.ico",
+    "index.html": "/text-to-speech/index.html",
+    "manifest.json": "/text-to-speech/manifest.json",
+    "serve.json": "/text-to-speech/serve.json",
+    "static/js/2.ff8d85f2.chunk.js.LICENSE.txt": "/text-to-speech/static/js/2.ff8d85f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.7100a533.js",
+    "static/js/2.ff8d85f2.chunk.js",
+    "static/js/app.2a921703.chunk.js"
+  ]
+}
